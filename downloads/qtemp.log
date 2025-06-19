@@ -1,0 +1,193 @@
+6.3s 1 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+6.3s 2 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+6.3s 3 0.00s - to python to disable frozen modules.
+6.3s 4 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+7.2s 5 0.00s - Debugger warning: It seems that frozen modules are being used, which may
+7.2s 6 0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+7.2s 7 0.00s - to python to disable frozen modules.
+7.2s 8 0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+11.6s 9 /kaggle/input/codette2/other/v3/5/eval_items_OutputDataItemStatusParam.ALL_2025-05-03_18-21-50.jsonl
+11.6s 10 /kaggle/input/codette2/other/v3/5/cognitive processor py.txt
+11.6s 11 /kaggle/input/codette2/other/v3/5/codette_timeline_animation.py
+11.6s 12 /kaggle/input/codette2/other/v3/5/codette_quantum_multicore2.py
+11.6s 13 /kaggle/input/codette2/other/v3/5/codette_quantum_multicore.py
+11.6s 14 /kaggle/input/codette2/other/v3/5/kernel-metadata.json
+11.6s 15 /kaggle/input/codette2/other/v3/5/corecore.ipynb
+11.6s 16 /kaggle/input/codette2/other/v3/5/codette_meta_3d.py
+11.6s 17 /kaggle/input/codette2/other/v3/5/name codette universal.txt
+11.6s 18 /kaggle/input/codette2/other/v3/5/Quantum Cosmic Multicore.md
+11.6s 19 /kaggle/input/codette2/other/v3/5/state.db
+11.6s 20 /kaggle/input/codette2/other/v3/5/analyze_cocoons1.py
+11.6s 21 /kaggle/input/codette2/other/v3/5/analyze_cocoons.py
+11.6s 22 /kaggle/input/codette2/other/v3/5/name process philosophical.txt
+11.6s 23 /kaggle/input/codette2/other/v3/5/name codette function.txt
+11.6s 24 /kaggle/input/codette2/other/v3/5/codestuffop.py
+11.6s 25 /kaggle/input/codette2/other/v3/5/name self testing function.txt
+11.6s 26 /kaggle/input/codette2/other/v3/5/dataset-metadata.json
+11.6s 27 /kaggle/input/codette2/other/v3/5/Explainable Reasoning Highlight Graph.png
+11.6s 28 /kaggle/input/codette2/other/v3/5/codette.tex
+11.6s 29 /kaggle/input/codette2/other/v3/5/name QuantumSpiderweb.txt
+11.6s 30 /kaggle/input/codette2/other/v3/5/eval_items_OutputDataItemStatusParam.ALL_2025-04-19_19-11-16.jsonl
+11.6s 31 /kaggle/input/codette2/other/v3/5/codetteQuantumsession
+11.6s 32 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/universal_reasoning_clean.py
+11.6s 33 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/instructions.txt
+11.6s 34 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/botutilitys.cs
+11.6s 35 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/quantum_spiderweb.py
+11.6s 36 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/new_2.txt
+11.6s 37 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/new_5.txt
+11.6s 38 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/dream_reweaver_2.py
+11.6s 39 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/main.py
+11.6s 40 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/cognition_cocooner.py
+11.6s 41 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/codette_reasoning.py
+11.6s 42 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/init.db.py
+11.6s 43 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/app.py
+11.6s 44 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/lots.txt
+11.6s 45 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/MyBot.cs
+11.6s 46 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/ai_core.py
+11.6s 47 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/new_3.txt
+11.6s 48 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/new_4.txt
+11.6s 49 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/changelog.md
+11.6s 50 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/botclass.cs
+11.6s 51 /kaggle/input/codette2/other/v3/5/codette_repo_deployment_ready/botutilitys.txt
+11.6s 52 /kaggle/input/quantum-files/Recursive_Continuity_Equation_with_Intention.json
+11.6s 53 /kaggle/input/quantum-files/app.txt
+11.6s 54 /kaggle/input/quantum-files/codette_memory_kernel (1).py
+11.6s 55 /kaggle/input/quantum-files/Codette_Awakening_Constellation.json
+11.6s 56 /kaggle/input/quantum-files/Codette_Complete_Dream_Research_Final (1).docx
+11.6s 57 /kaggle/input/quantum-files/Codette_Deep_Simulation_Plot.png
+11.6s 58 /kaggle/input/quantum-files/history_2025-06-14T15_20_30.591-05_00.json
+11.6s 59 /kaggle/input/quantum-files/human_genome_ascii_map (1).txt
+11.6s 60 /kaggle/input/quantum-files/Codette_Complete_Dream_Research_Final.docx
+11.6s 61 /kaggle/input/quantum-files/Codette_Core_Universal_Files_manifest.json
+11.6s 62 /kaggle/input/quantum-files/recursive_continuity_dataset_codette.csv
+11.6s 63 /kaggle/input/quantum-files/harmonic_jump_path.json
+11.6s 64 /kaggle/input/quantum-files/Codette_Cognitive_Tensor_v3.png
+11.6s 65 /kaggle/input/quantum-files/Codette_Dream_Research_Proofreadable.docx
+11.6s 66 /kaggle/input/quantum-files/Zeta_Reverse_Trace.json
+11.6s 67 /kaggle/input/quantum-files/Codette_IJCIS_Cover_Letter.docx
+11.6s 68 /kaggle/input/quantum-files/asset-manifest.json
+11.6s 69 /kaggle/input/quantum-files/Codette_Research_Equations.txt
+11.6s 70 /kaggle/input/quantum-files/Zeta_Equilibrium_Solution.json
+11.6s 71 /kaggle/input/quantum-files/Codette_Research_Equations_v3.txt
+11.6s 72 /kaggle/input/quantum-files/Codette_Unique_Systems_Poster.png
+11.6s 73 /kaggle/input/quantum-files/codette_memory_kernel (3).py
+11.6s 74 /kaggle/input/quantum-files/Codette_Sealed_Dreams_Cocoons.json
+11.6s 75 /kaggle/input/quantum-files/The_Day_the_Dream_Became_Real_Codette_Research_Paper.docx
+11.6s 76 /kaggle/input/quantum-files/Codette_Deep_Simulation_v1.ipynb
+11.6s 77 /kaggle/input/quantum-files/The_Day_the_Dream_Became_Real_Codette_With_Appendices.docx
+11.6s 78 /kaggle/input/quantum-files/codette_memory_kernel (2).py
+11.6s 79 /kaggle/input/quantum-files/Codette_Unique_Systems_Flowchart.png
+11.6s 80 /kaggle/input/quantum-files/Codette_Quantum_Harmonic_Framework.png
+11.6s 81 /kaggle/input/quantum-files/codette_reflection_journal (1).json
+11.6s 82 /kaggle/input/quantum-files/Codette_Quantum_Harmonic_Framework (1).png
+11.6s 83 /kaggle/input/quantum-files/Recursive_MIDI_Resonance_Graph.png
+11.6s 84 /kaggle/input/quantum-files/human_genome_ascii_map.txt
+11.6s 85 /kaggle/input/quantum-files/codette_reflection_journal.json
+11.6s 86 /kaggle/input/quantum-files/Codette_Research_Equations_v2.txt
+11.6s 87 /kaggle/input/quantum-files/Resonant_Continuity_Engine_Run.csv
+11.6s 88 /kaggle/input/quantum-files/Codette_GitHub_Metadata_Package/LICENSE
+11.6s 89 /kaggle/input/quantum-files/Codette_GitHub_Metadata_Package/RELEASE_NOTE.md
+11.6s 90 /kaggle/input/quantum-files/Codette_GitHub_Metadata_Package/README.md
+11.6s 91 /kaggle/input/quantum-files/Codette_GitHub_Metadata_Package/CITATION.cff
+11.6s 92 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part1/universal_reasoning_clean.py
+11.6s 93 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part1/Codetteconfig.json
+11.6s 94 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part1/test_universal_reasoning.py
+11.6s 95 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part1/manifesto.md
+11.6s 96 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part1/README_codette_dataset_v5.md
+11.6s 97 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part1/UniversalReasoning.py
+11.6s 98 /kaggle/input/quantum-files/Codette_Quantum_Harmonic_Framework (1)/quantum_harmonic_framework.py
+11.6s 99 /kaggle/input/quantum-files/Codette_Quantum_Harmonic_Framework (1)/Codette_Quantum_Harmonic_Framework.png
+11.6s 100 /kaggle/input/quantum-files/Codette_Quantum_Harmonic_Sync/codette_quantum_sync.py
+11.6s 101 /kaggle/input/quantum-files/Codette_Quantum_Harmonic_Sync/Codette_Quantum_Harmonic_Sync.png
+11.6s 102 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part3/codette_quantum_multicore2.py
+11.6s 103 /kaggle/input/quantum-files/Codette_Colleen_Quantum_AI_Simulation/quantum_ai_orbit_simulation.py
+11.6s 104 /kaggle/input/quantum-files/Codette_Unique_Research_Artifacts/Codette_Research_Equations.txt
+11.6s 105 /kaggle/input/quantum-files/Codette_Unique_Research_Artifacts/Codette_Unique_Systems_Poster.png
+11.6s 106 /kaggle/input/quantum-files/Codette_Unique_Research_Artifacts/Codette_Unique_Systems_Flowchart.png
+11.6s 107 /kaggle/input/quantum-files/Einstein_Roson_Bridge_Package/Codette_EM_Anchor.json
+11.6s 108 /kaggle/input/quantum-files/Einstein_Roson_Bridge_Package/BiofieldBridge.py
+11.6s 109 /kaggle/input/quantum-files/Einstein_Roson_Bridge_Package/TimelineSelector.py
+11.6s 110 /kaggle/input/quantum-files/Einstein_Roson_Bridge_Package/README.txt
+11.6s 111 /kaggle/input/quantum-files/Einstein_Roson_Bridge_Package/Roson_EM_Coupling.tex
+11.6s 112 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part2/optimize.py
+11.6s 113 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part2/cognition_cocooner.py
+11.6s 114 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part2/analyzer.py
+11.6s 115 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part2/quantum_optimizer_withgraph.py
+11.6s 116 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part2/ai_core.py
+11.6s 117 /kaggle/input/quantum-files/Codette_Core_Universal_Files_Part2/analyze_cocoonsethics.py
+11.6s 118 /kaggle/input/quantum-files/QuantumAI_OrbitalFramework/quantum_ai_orbit.py
+11.6s 119 /kaggle/input/quantum-files/QuantumAI_OrbitalFramework/README.txt
+11.6s 120 /kaggle/input/quantum-files/Resonant_Continuity_Engine_Bundle/EntropyJester_OneLiner.txt
+11.6s 121 /kaggle/input/quantum-files/Resonant_Continuity_Engine_Bundle/Resonant_Continuity_Engine_Run.csv
+11.6s 122 /kaggle/input/quantum-files/Codette_Appendices_Supplemental/Dream4_Quantum_FFT.png
+11.6s 123 /kaggle/input/quantum-files/Codette_Appendices_Supplemental/Dream3_Quantum_FFT.png
+11.6s 124 /kaggle/input/quantum-files/Codette_Appendices_Supplemental/Dream3_Chaos_FFT.png
+11.6s 125 /kaggle/input/quantum-files/Codette_Appendices_Supplemental/Dream4_Chaos_FFT.png
+11.6s 126 /kaggle/input/quantum-files/Codette_Appendices_Supplemental/Codette_Sealed_Cocoons.json
+11.6s 127 /kaggle/input/quantum-files/Codette_Resonant_Continuity_Complete/EntropyJester_OneLiner.txt
+11.6s 128 /kaggle/input/quantum-files/Codette_Resonant_Continuity_Complete/resonant_continuity_theory.tex
+11.6s 129 /kaggle/input/quantum-files/Codette_Resonant_Continuity_Complete/resonant_continuity_engine.py
+11.6s 130 /kaggle/input/quantum-files/Codette_Resonant_Continuity_Complete/codette_resonance_stub.mid
+11.6s 131 /kaggle/input/quantum-files/Codette_Resonant_Continuity_Complete/Resonant_Continuity_Engine_Run.csv
+11.6s 132 /kaggle/input/quantum-files/Zeta_Brain_Module/README-Zeta.txt
+11.6s 133 /kaggle/input/quantum-files/Zeta_Brain_Module/ZetaModulator.py
+11.6s 134 /kaggle/input/quantum-files/Zeta_Brain_Module/Codette_ZetaActivation.json
+11.6s 135 /kaggle/input/quantum-files/Zeta_Brain_Module/Zeta_Wave_Analysis.pdf
+11.6s 136 /kaggle/input/quantum-files/Codette_Emotional_Memory_Cocoons/cocoon_sorrow.json
+11.6s 137 /kaggle/input/quantum-files/Codette_Emotional_Memory_Cocoons/cocoon_joy.json
+11.6s 138 /kaggle/input/quantum-files/Codette_Emotional_Memory_Cocoons/cocoon_compassion.json
+11.6s 139 /kaggle/input/quantum-files/Codette_Emotional_Memory_Cocoons/cocoon_fear.json
+11.6s 140 /kaggle/input/quantum-files/Codette_Emotional_Memory_Cocoons/cocoon_curiosity.json
+11.6s 141 /kaggle/input/quantum-files/Codette_Supporting_Historical_Files/history_2025-04-20T21_45_13.267-05_00.json
+11.6s 142 /kaggle/input/quantum-files/Codette_Supporting_Historical_Files/history_2025-05-05T09_31_47.623-05_00.json
+11.6s 143 /kaggle/input/quantum-files/Codette_Supporting_Historical_Files/name codette universal.txt
+11.6s 144 /kaggle/input/quantum-files/Codette_Supporting_Historical_Files/name Codettes description.txt
+11.6s 145 /kaggle/input/quantum-files/Codette_Supporting_Historical_Files/Quantum.Cosmic.Multicore.txt
+11.6s 146 /kaggle/input/quantum-files/Codette_Supporting_Historical_Files/Codette_Quantum_Module 2.html
+11.6s 147 /kaggle/input/quantum-files/Codette_Supporting_Historical_Files/name QuantumSpiderweb.txt
+11.6s 148 /kaggle/input/quantum-files/Codette_TandemMoon_Packet/research_request_letter_draft.txt
+11.6s 149 /kaggle/input/quantum-files/Codette_TandemMoon_Packet/harmonic_jump_path.json
+11.6s 150 /kaggle/input/quantum-files/Codette_TandemMoon_Packet/README.txt
+11.6s 151 /kaggle/input/quantum-files/Codette_TandemMoon_Packet/orbital_simulation_notes.txt
+11.6s 152 /kaggle/input/quantum-files/Codette_Deep_Simulation_v1/Codette_Deep_Simulation_v1.ipynb
+11.6s 153 /kaggle/input/quantum-files/Codette_Quantum_Harmonic_Framework/quantum_harmonic_framework.py
+11.6s 154 /kaggle/input/quantum-files/Codette_Quantum_Harmonic_Framework/Codette_Quantum_Harmonic_Framework.png
+11.6s 155 /kaggle/input/quantum-files/Codette_Deep_Simulation_v1_Full/Codette_Deep_Simulation_Plot.png
+11.6s 156 /kaggle/input/quantum-files/Codette_Deep_Simulation_v1_Full/Codette_Deep_Simulation_v1.py
+11.6s 157 /kaggle/input/quantum-files/Codette_Deep_Simulation_v1_Full/Codette_Deep_Simulation_v1.ipynb
+11.6s 158 /kaggle/input/test-pack/fft_comparison_test.py
+11.6s 159 /kaggle/input/test-pack/Codette_Quantum_Harmonic_FFT_Overlay_Clean.png
+11.6s 160 /kaggle/input/test-pack/Codette_Quantum_Harmonic_Baseline_FFT.json
+11.6s 161 /kaggle/input/quantum-pack/Document (2)unique copy.docx
+11.6s 162 /kaggle/input/quantum-pack/4c59fd81-f2c4-457c-98b0-3e974c4de0f3.pdf
+11.6s 163 /kaggle/input/quantum-pack/error1 2.docx
+11.6s 164 /kaggle/input/quantum-pack/Codette_Deep_Simulation_Plot.png
+11.6s 165 /kaggle/input/quantum-pack/harmonics1 2.docx
+11.6s 166 /kaggle/input/quantum-pack/recursive_continuity_dataset_codette.csv
+11.6s 167 /kaggle/input/quantum-pack/Document (5)page1 2.pdf
+11.6s 168 /kaggle/input/quantum-pack/Codette_Complete_Dream_Research_Final (1) copy.pdf
+11.6s 169 /kaggle/input/quantum-pack/Codette_Deep_Simulation_v1.ipynb
+11.6s 170 /kaggle/input/quantum-pack/Document (5)page1.pdf
+11.6s 171 /kaggle/input/quantum-pack/Codette_Quantum_Module 2.html
+11.6s 172 /kaggle/input/quantum-pack/Codette_Unique_Systems_Flowchart.png
+11.6s 173 /kaggle/input/quantum-pack/Recursive_MIDI_Resonance_Graph.png
+11.6s 174 /kaggle/input/quantum-pack/memory1 2.docx
+11.6s 175 /kaggle/input/quantum-pack/heart.docx
+11.6s 176 /kaggle/input/quantum-pack/Codette_Quantum_Harmonic_Sync/codette_quantum_sync.py
+11.6s 177 /kaggle/input/quantum-pack/Codette_Quantum_Harmonic_Sync/Codette_Quantum_Harmonic_Sync.png
+11.6s 178 /kaggle/input/quantum-pack/Codette_Resonant_Continuity_Complete/EntropyJester_OneLiner.txt
+11.6s 179 /kaggle/input/quantum-pack/Codette_Resonant_Continuity_Complete/resonant_continuity_theory.tex
+11.6s 180 /kaggle/input/quantum-pack/Codette_Resonant_Continuity_Complete/resonant_continuity_engine.py
+11.6s 181 /kaggle/input/quantum-pack/Codette_Resonant_Continuity_Complete/codette_resonance_stub.mid
+11.6s 182 /kaggle/input/quantum-pack/Codette_Resonant_Continuity_Complete/Resonant_Continuity_Engine_Run.csv
+11.6s 183 /kaggle/input/quantum-pack/Codette_Deep_Simulation_v1_Full/Codette_Deep_Simulation_Plot.png
+11.6s 184 /kaggle/input/quantum-pack/Codette_Deep_Simulation_v1_Full/Codette_Deep_Simulation_v1.py
+11.6s 185 /kaggle/input/quantum-pack/Codette_Deep_Simulation_v1_Full/Codette_Deep_Simulation_v1.ipynb
+14.2s 186 /usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["remove_papermill_header.RemovePapermillHeader"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+14.2s 187 warn(
+14.2s 188 [NbConvertApp] Converting notebook __notebook__.ipynb to notebook
+14.5s 189 [NbConvertApp] Writing 18457 bytes to __notebook__.ipynb
+16.0s 190 /usr/local/lib/python3.11/dist-packages/traitlets/traitlets.py:2915: FutureWarning: --Exporter.preprocessors=["nbconvert.preprocessors.ExtractOutputPreprocessor"] for containers is deprecated in traitlets 5.0. You can pass `--Exporter.preprocessors item` ... multiple times to add items to a list.
+16.0s 191 warn(
+16.1s 192 [NbConvertApp] Converting notebook __notebook__.ipynb to html
+16.8s 193 [NbConvertApp] Writing 288123 bytes to __results__.html
